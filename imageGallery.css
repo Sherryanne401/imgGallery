@@ -1,0 +1,35 @@
+body {
+	padding-top: 70px;
+}
+
+.jumbotron {
+	color: #204060;
+	background: #ecf0f1;
+}
+
+.jumbotron h1 {
+	font-family: 'PT Sans Caption', sans-serif;
+}
+
+.jumbotron p {
+	font-family: 'Noto Serif', serif;
+	letter-spacing: 1.6px;
+}
+
+.navbar-inverse {
+	background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+	font-family: 'Noto Serif', serif;
+	letter-spacing: 1.6px;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+	font-family: 'Noto Serif', serif;
+	letter-spacing: 1.6px;
+	font-weight: 700;
+}
+
